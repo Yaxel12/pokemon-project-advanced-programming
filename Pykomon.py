@@ -1,3 +1,5 @@
+//Proyecto Pykomon programacion avanzada
+
 import pygame
 from pygame.locals import *
 import time
